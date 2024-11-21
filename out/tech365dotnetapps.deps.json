@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tech365dotnetapps/1.0.0": {
+        "runtime": {
+          "tech365dotnetapps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tech365dotnetapps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
